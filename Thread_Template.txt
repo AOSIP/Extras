@@ -1,3 +1,6 @@
+AOSiP 5.0 [Beta] [OMS] [7.0.0-r_14]
+
+
 [align=center][img]http://i.imgur.com/Dr6rSI1.png[/img]
 [size=200][b]Android Open Source illusion Project[/b][/size]
 
@@ -57,6 +60,5 @@ All our testers
 
 
 [size=150][b]Donations:[/b][/size]
-[size=85][url=https://www.paypal.me/xlxfoxxlx]Donations[/url] are never asked but are always appreciated. 
-A lot of work goes into each and every build.
+[size=85][url=https://www.paypal.me/aosip]Donations[/url] are never asked but things such as server, gerrit, & website do cost the team money.
 If you're feeling like were deserving of a little tip please feel free to send it.[/size][/align]
