@@ -1,0 +1,62 @@
+[align=center][img]http://i.imgur.com/Dr6rSI1.png[/img]
+[size=200][b]Android Open Source illusion Project[/b][/size]
+
+
+[size=200][b]About us:[/b][/size]
+AOSIP is a quality custom rom based purely on Googles AOSP marshmallow source. Twisted with the latest features and blended with stability. We strive for perfection and it shows. 
+
+
+[size=200][b]Team Illusion:[/b][/size]
+Josh Fox (xlxfoxxlx)
+Paul Clark
+Akhil Narang
+Sri Harsha
+Sean Grondin
+
+
+[size=200][b]Support/Community:[/b][/size]
+Full support is always on the top of the list. visit our [url=https://plus.google.com/communities/111510412594093155165]AOSiP[/url] Google plus community for all your ROM needs. There we have all the latest links to gapps , layers , and other helpful communities. Or just stop and engage in off topic fun.
+
+
+[size=200][b]Bug reporting:[/b][/size]
+This is a big one. We work very hard for you guys so please help us out and follow these steps to report your bug. Ive even provided links for you to help out.
+
+1. Very first step will be to attempt a new DL and clean flash.
+2. Pull a [url=http://forum.xda-developers.com/showthread.php?t=1726238]logcat[/url] and copy / paste it to [url=http://hastebin.com/]hastebin[/url] .
+3. Visit [url=https://plus.google.com/communities/111510412594093155165]AOSiP[/url] and post your issue with your log in the bug reporting section.
+4. Any bug reported without following procedure will be disregarded.
+
+
+[size=200][b]Source code:[/b][/size]
+As the name states we are open source and encourage anyone to skim through the code. However the builds we release are not to be taken apart and parted out.
+[url=http://review.aosip.xyz]AOSiP Gerrit Review[/url]
+[url=https://github.com/AOSIP]AOSiP Github[/url]
+[url=https://github.com/Dabug123/KronicKernel]Kernel source[/url]
+
+
+[size=200][b]Latest Downloads:[/b][/size]
+[url=http://downloads.aosip.xyz]AOSiP Downloads - Here you will find most current builds along with other like vendors, gapps, walls and more[/url]
+
+
+[size=200][b]Credit/Thanks:[/b][/size]
+Mike Williams(founder and creator of AOSiP)
+Google
+Dirty Unicorns
+AICP
+ABC Rom
+Screwd
+Omni
+Krexus
+Cyanogenmod
+SlimRoms
+ChainFire (SuperSU)
+Beanstown106
+Cory Collins
+Any others i may have forgotten(sorry)
+All our testers
+
+
+[size=150][b]Donations:[/b][/size]
+[size=85][url=https://www.paypal.me/xlxfoxxlx]Donations[/url] are never asked but are always appreciated. 
+A lot of work goes into each and every build.
+If you're feeling like were deserving of a little tip please feel free to send it.[/size][/align]
